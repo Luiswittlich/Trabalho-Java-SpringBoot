@@ -31,3 +31,20 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Arquivos gerados pelo Maven
+target/
+
+# Banco de dados H2
+data/
+
+# Configuracoes do VS Code
+.vscode/
+
+# Arquivos temporarios
+*.log
+.env
+
+# Arquivos locais do Postman
+.postman/
+postman/
